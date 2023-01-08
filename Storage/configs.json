@@ -1,0 +1,22 @@
+{
+    "catchall":"",
+    "zip":"",
+    "twocap":"",
+    "capmonster": "",
+    "captchaAi": "",
+    "smsactivate":"",
+    "textverified":"",
+    "kopeechka": "",
+
+    "kkmonth":"",
+    "ddmonth":"",
+    "ihopmonth":"",
+    "hootersmonth":"",
+
+    "imapemail": "",
+    "imappassword": "",
+    "bestbuyaccounts": [""],
+
+    "discordWebhook":"",
+    "license": ""
+}
